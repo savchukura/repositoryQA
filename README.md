@@ -1,1 +1,2 @@
 # repositoryQA
+qa is true
